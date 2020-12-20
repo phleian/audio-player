@@ -1,0 +1,49 @@
+.content {
+  text-align: center;
+}
+
+.audioPlayer {
+  padding: 5rem 15rem 0 80rem;
+}
+
+.gallery {
+  object-position: center;
+  background-position: center center;
+  height: 100px;
+  width: 50%;
+}
+
+/*header*/
+.brand-title {
+  margin: 1rem;
+  font-weight: bold;
+}
+
+/*audio*/
+#soundtrack {
+  padding: 1rem;
+}
+
+#playlist {
+  padding: 1rem;
+  color: #f2f2fe;
+}
+
+#playlist a, a:hover { 
+  /*remove hyperlink*/
+  text-decoration: none;
+}
+
+#playlist a {
+  color: #f2f2fe;
+}
+
+#playlist a:hover {
+  /* the color will change when it is clicked*/
+  color: #FBDE44FF;
+}
+
+
+body {
+  background-color: #2e2e2e;
+}
